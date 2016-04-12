@@ -1,0 +1,14 @@
+layout_spectrum: 0.1702128
+color:
+  saturation: 1
+  lightness: 1
+  brandStrength: 1
+  brandColors:
+    - '#423127'
+    - '#666E89'
+    - '#FFFFFF'
+    - '#E0787E'
+    - '#1F9200'
+  rhythmicContrast: 1
+typography_spectrum: 0.4723404
+name: Cassis Staudt
