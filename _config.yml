@@ -4,11 +4,11 @@ color:
   lightness: 1
   brandStrength: 1
   brandColors:
-    - '#423127'
-    - '#666E89'
-    - '#FFFFFF'
-    - '#E0787E'
-    - '#1F9200'
+    - '#B47877'
+    - '#7F3930'
+    - '#CF4230'
+    - '#6D160D'
+    - '#F2B6B3'
   rhythmicContrast: 1
 typography_spectrum: 0.4723404
 name: Cassis Staudt
